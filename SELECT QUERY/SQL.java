@@ -28,8 +28,6 @@ public class SQL {
 			else{
 				System.out.println("NO DATA FOUND");
 			}
-
-			System.out.println("VALUE INSERTED SUCCESSFULLY" + a);
 		}
 		catch(Exception e){
 			e.printStackTrace();			
