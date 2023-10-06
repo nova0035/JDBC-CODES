@@ -1,7 +1,5 @@
 # JDBC-CODES Repository
 
-![Java Logo](https://icons8.com/icon/13679/java)
-
 ## Introduction
 
 Welcome to the JDBC-CODES repository! This repository contains a collection of Java code examples for performing various database operations using Java Database Connectivity (JDBC). JDBC is a Java-based API that allows developers to interact with relational databases such as MySQL, PostgreSQL, Oracle, and more.
