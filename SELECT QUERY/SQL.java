@@ -21,8 +21,8 @@ public class SQL {
 
 			if(table.next()){
 				do{
-					System.out.println(table.getInt(1));
-					System.out.println(table.getString(2));
+					System.out.print(table.getInt(1));
+					System.out.print(table.getString(2));
 				}while(table.next());
 			}
 			else{
