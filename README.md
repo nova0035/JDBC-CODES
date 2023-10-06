@@ -31,4 +31,4 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone or Download:** Clone or download this repository to your local machine:
 
    ```sh
-   git clone https://github.com/your-username/JDBC-CODES.git
+   git clone https://github.com/nova0035/JDBC-CODES.git
