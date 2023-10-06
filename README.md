@@ -11,12 +11,7 @@ These code examples serve as a reference for developers looking to work with dat
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-- [Contact](#contact)
-
+    
 ## Getting Started
 
 ### Prerequisites
