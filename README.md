@@ -1,6 +1,6 @@
 # JDBC-CODES Repository
 
-![Java Logo](https://www.oracle.com/a/ocom/img/oca-logo-jdk.svg)
+![Java Logo](https://icons8.com/icon/13679/java)
 
 ## Introduction
 
